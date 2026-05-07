@@ -41,15 +41,20 @@ To run this project locally, you can follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/prayer-on/nina-carducci-website.git 
 ```
 
 2. Select the Project folder:
 ```bash
-cd Nina-Carducci-Dev
+cd nina-carducci-website
 ```
 
-3. Start the server:
+3. Install the dependencies:
+```bash
+npm install
+```
+
+4. Start the server:
 ```bash
 npm start
 ```
