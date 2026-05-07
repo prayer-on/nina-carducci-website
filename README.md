@@ -13,9 +13,7 @@
 - `CSS3`
 - `JavaScript (ES6+)`
 - `WAVE Tool`
-- `Chrome DevTools` 
-
-
+- `Chrome DevTools`
 
 
 <h3>💻 Functionalities:</h3>
