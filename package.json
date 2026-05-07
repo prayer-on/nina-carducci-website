@@ -1,0 +1,23 @@
+{
+  "name": "nina-carducci-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "./node_modules/.bin/live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prayer-on/PROJECT-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prayer-on/PROJECT-4/issues"
+  },
+  "homepage": "https://github.com/prayer-on/PROJECT-4#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
