@@ -5,7 +5,7 @@
 
 <h3>🚀 Demo:</h3>
 
-- (Coming soon !!)
+- [Live Preview](https://prayeronaiwunina-carducci-website.vercel.app/)
 
 <h3>🛠️ Technologies:</h3>
 
